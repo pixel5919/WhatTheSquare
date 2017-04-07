@@ -1,0 +1,11 @@
+html,
+body {
+	background-color: #000000;
+}
+
+canvas#field {
+	display: block;
+	margin: 0px auto;
+	border: 1px solid #FFFFFF;
+	background-color: #000000;
+}
